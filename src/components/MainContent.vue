@@ -28,11 +28,12 @@
 
     <!-- work section -->
     <section id="work" class="px-8 py-20">
-      <div class="max-w-6xl mx-auto">
-        <div class="text-center">
-          <h1 class="text-4xl text-gray-800">Work</h1>
-          <p class="pt-2 text-xl">Projects I have worked on</p>
-        </div>
+    <div class="max-w-screen-lg mx-auto">
+    <div class="text-center">
+      <h1 class="text-4xl text-gray-800">Work</h1>
+      <p class="pt-2 text-xl">Projects I have worked on</p>
+    </div>
+    <div class="grid mt-16 grid-cols-1 gap-14">
         <div class="grid mt-16 grid-cols-2 lg:grid-cols-3 gap-14">
           <!-- work-1 -->
           <div class="bg-white rounded-lg shadow-md lg:col-span-2">
