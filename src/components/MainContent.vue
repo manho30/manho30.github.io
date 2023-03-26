@@ -28,21 +28,19 @@
 
     <!-- work section -->
     <section id="work" class="px-8 py-20">
-    <div class="max-w-screen-lg mx-auto">
-    <div class="text-center">
-      <h1 class="text-4xl text-gray-800">Work</h1>
-      <p class="pt-2 text-xl">Projects I have worked on</p>
-    </div>
-    <div class="grid mt-16 grid-cols-1 gap-14">
-        <div class="grid mt-16 grid-cols-2 lg:grid-cols-3 gap-14">
+      <div class="max-w-screen-lg mx-auto">
+        <div class="text-center">
+          <h1 class="text-4xl text-gray-800">Work</h1>
+          <p class="pt-2 text-xl">Projects I have worked on</p>
+        </div>
+        <div class="grid mt-16 grid-cols-1 gap-14 sm:grid-cols-2 md:grid-cols-3">
           <!-- work-1 -->
-          <div class="bg-white rounded-lg shadow-md lg:col-span-2">
+          <div class="bg-white rounded-lg shadow-md">
             <div class="p-8">
               <h3 class="text-2xl font-bold text-gray-800">Project 1</h3>
               <p class="pt-3">My Covid API</p>
               <p class="mt-2 text-gray-400 font-xs">Turn Malaysia Covid-19 pandemic data wrapper into RESTful API. Powered by CITF and Ministry of Health Malaysia.</p>
-              <a href="https://github.com/manho30/covidapi"
-                 class="inline-block px-6 py-2 mt-4 text-sm text-white transition duration-300 bg-indigo-400 rounded-md shadow-md hover:bg-indigo-500 hover:shadow-xl">Github</a>
+              <a href="https://github.com/manho30/covidapi" class="inline-block px-6 py-2 mt-4 text-sm text-white transition duration-300 bg-indigo-400 rounded-md shadow-md hover:bg-indigo-500 hover:shadow-xl">Github</a>
             </div>
           </div>
           <!-- work-2 -->
@@ -51,8 +49,7 @@
               <h3 class="text-2xl font-bold text-gray-800">Project 2</h3>
               <p class="pt-3">抖音视频API</p>
               <p class="mt-2 text-gray-400 font-xs">抖音小视频解析API。可获取无水印链接</p>
-              <a href="https://github.com/manho30/douyinapi"
-                 class="inline-block px-6 py-2 mt-4 text-sm text-white transition duration-500 bg-indigo-400 rounded-md shadow-md hover:bg-indigo-500 hover:shadow-xl">Github</a>
+              <a href="https://github.com/manho30/douyinapi" class="inline-block px-6 py-2 mt-4 text-sm text-white transition duration-500 bg-indigo-400 rounded-md shadow-md hover:bg-indigo-500 hover:shadow-xl">Github</a>
             </div>
           </div>
           <!-- work-3 -->
@@ -61,8 +58,7 @@
               <h3 class="text-2xl font-bold text-gray-800">Project 3</h3>
               <p class="pt-3">Youtube Video Downloader</p>
               <p class="mt-2 text-gray-400 font-xs">A static HTML web app allow you downloading video from YouTube</p>
-              <a href="https://youtubedl.manho30.me"
-                 class="inline-block px-6 py-2 mt-4 text-sm text-white transition duration-500 bg-indigo-400 rounded-md shadow-md hover:bg-indigo-500 hover:shadow-xl">Github</a>
+              <a href="https://youtubedl.manho30.me" class="inline-block px-6 py-2 mt-4 text-sm text-white transition duration-500 bg-indigo-400 rounded-md shadow-md hover:bg-indigo-500 hover:shadow-xl">Github</a>
             </div>
           </div>
           <!-- work-4 -->
